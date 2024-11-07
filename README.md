@@ -6,6 +6,7 @@ A Firebase-based chat tool that allows real-time communication in the terminal! 
 - Firebase backend for message handling
 - Customizable username
 - Stylish, colorful chat room display
+- No email or Phonenumber required (May require email in the new update for better chat and private chat)
 
 ---
 
